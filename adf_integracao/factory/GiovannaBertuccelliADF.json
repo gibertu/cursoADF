@@ -1,0 +1,9 @@
+{
+	"name": "GiovannaBertuccelliADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "062e7da9-2d6d-47bd-9f2a-1e36c888f352",
+		"tenantId": "cc503dfa-7e27-4795-8105-1c67555b8792"
+	}
+}
