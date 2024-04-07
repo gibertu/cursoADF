@@ -1,0 +1,9 @@
+{
+	"name": "gitreinamento",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9fa8d37c-b639-4373-9f43-61a997ddab7f",
+		"tenantId": "33e55563-5a03-4500-ab29-9a3c8cf485fc"
+	}
+}
